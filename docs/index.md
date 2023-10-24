@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/logo.png
+heroImage: https://img.jhacker.cn/img/fish-cloud1.png
 heroText: FishCloud
 tagline: 🚀FishCloud 分布式项目框架说明文档
 actionText: 开始使用 →
@@ -15,7 +15,7 @@ features:
     details: 尽可能的减少造轮子，组件最小化，模块化引入。
 postList: none
 ---
-
+ 
 
 
 ## 🎖特别用户
