@@ -24,35 +24,35 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '开发指南', link: '/pages/项目简介/', items: [
-          { text: '项目简介', link: '/pages/项目简介/' },
-          { text: '快速开始', link: '/pages/快速开始/' },
-          { text: '目录结构', link: '/pages/目录结构/' },
+        text: '开发指南', link: '/pages/xmjj/', items: [
+          { text: '项目简介', link: '/pages/xmjj/' },
+          { text: '快速开始', link: '/pages/quickStart/' },
+          { text: '目录结构', link: '/pages/contentStruct/' },
           {
             text: '项目开发', items: [
-              { text: '前端开发', link: '/pages/前端开发/' },
-              { text: '后端开发', link: '/pages/后端开发/' },
-              { text: '新建模块', link: '/pages/新建模块/' },
-              { text: '模块使用方法', link: '/pages/模块使用方法/' }
+              { text: '前端开发', link: '/pages/dev_front/' },
+              { text: '后端开发', link: '/pages/dev_back/' },
+              { text: '新建模块', link: '/pages/new_module/' },
+              { text: '模块使用方法', link: '/pages/module_usesage/' }
             ]
           }
         ]
       },
       {
-        text: '项目部署', link: '/pages/部署条件/', items: [
-		  { text: '部署条件', link: '/pages/部署条件/' },
-          { text: '后端部署', link: '/pages/后端部署/' },
-          { text: '前端部署', link: '/pages/前端部署/' }
+        text: '项目部署', link: '/pages/dev_env/', items: [
+		  { text: '部署条件', link: '/pages/dev_env/' },
+          { text: '后端部署', link: '/pages/deploy_back/' },
+          { text: '前端部署', link: '/pages/deploy_front/' }
         ]
       },
-      { text: '常见问题', link: '/pages/后端问题/' ,items: [
-          { text: '后端问题', link: '/pages/后端问题/' },
-          { text: '前端问题', link: '/pages/前端问题/' },
-          { text: '部署问题', link: '/pages/部署问题/' },
-          { text: '其他问题', link: '/pages/其他问题/' }
+      { text: '常见问题', link: '/pages/qa_back/' ,items: [
+          { text: '后端问题', link: '/pages/qa_back/' },
+          { text: '前端问题', link: '/pages/qa_front/' },
+          { text: '部署问题', link: '/pages/qa_deploy/' },
+          { text: '其他问题', link: '/pages/qa_other/' }
         ]},
-      { text: '相关文档', link: '/pages/相关文档/' },
-      { text: '更新日志', link: '/pages/更新日志/' },
+      { text: '相关文档', link: '/pages/xgwd/' },
+      { text: '更新日志', link: '/pages/release/' },
       { text: '我的博客', link: 'https://jhacker.cn' },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
