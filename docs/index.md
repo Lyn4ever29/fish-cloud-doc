@@ -33,6 +33,7 @@ postList: none
 
 ## 🎉更新日志
 * `v1.0.0` 完成第一个版本迁移工作，已经可以用来开发项目了。
+* `v2.0.0` 对项目组件版本进行升级，SpringBoot升级到3.0.2，如果想使用SpringBoot2.6.13，请使用Boot2.6.13分支
 
 
 <br/>
@@ -65,7 +66,7 @@ postList: none
 
 在使用过程中有任何问题和想法，请给我提 [Issue](https://github.com/Lyn4ever29/fish-cloud/issues)。
 
-
+有关教程会在我的博客[https://jhacker.cn](http://jhacker.cn)发布，感谢关注。
 或者关注我的公众号：
 ![](https://img.jhacker.cn/img/gzh2.png)
 
