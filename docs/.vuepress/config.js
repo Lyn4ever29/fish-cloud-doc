@@ -101,10 +101,10 @@ module.exports = {
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          link: 'https://github.com/lyn4ver29'
+          link: 'https://github.com/lyn4ever29/fish-cloud'
         },
         {
-          iconClass: 'icon-erji',
+          iconClass: 'icon-xiangce',
           title: '博客',
           link: 'https://jhacker.cn'
         }
@@ -147,7 +147,7 @@ module.exports = {
     [
       'vuepress-plugin-baidu-tongji', // 百度统计
       {
-        hm: baiduCode || 'b78a5033622d40a14ca078150a0cf8ec'
+        hm: baiduCode || '6a558f745a30279b20a6741e2536eb1d'
       }
     ],
 
